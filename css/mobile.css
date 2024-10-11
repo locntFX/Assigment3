@@ -1,0 +1,14 @@
+@media (max-width: 500px) {
+  /* NAV */
+  .nav-center {
+    display: none;
+  }
+  .nav-container {
+    flex-direction: column;
+  }
+  .nav-item {
+    border: hidden;
+    text-align: start;
+    padding: 5px;
+  }
+}

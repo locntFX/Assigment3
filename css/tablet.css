@@ -1,0 +1,6 @@
+@media (max-width: 1170px) and (min-width: 501px) {
+  /* NAV */
+  .nav-avatar {
+    display: none;
+  }
+}
